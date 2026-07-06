@@ -1,0 +1,9 @@
+node_modules/
+bin/
+build/
+*.sav
+*.gba
+*.elf
+pppro-*.png
+*.sa2
+mapfile.map

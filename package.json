@@ -1,0 +1,18 @@
+{
+  "name": "erydianWars",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:city41/pppro.git",
+  "author": "Matt Greer <matt.e.greer@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@city41/gba-convertpng": "^0.0.30",
+    "@types/node": "^25.1.0",
+    "canvas": "^3.2.1",
+    "execa": "^5.1.1",
+    "lodash": "^4.18.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
